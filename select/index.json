@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ANIMA",
+  "base_artist": "ReoNa",
+  "createdAt": "2025-12-08T01:44:49.794741Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Anima Perduta",
+      "artist": "Rhapsody of Fire",
+      "has_synced": true,
+      "path": "select/01_Anima_Perduta_Rhapsody_of_Fire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Anima Rising",
+      "artist": "Caroline Lavelle",
+      "has_synced": true,
+      "path": "select/02_Anima_Rising_Caroline_Lavelle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Essenza e anima",
+      "artist": "Ivana Spagna",
+      "has_synced": true,
+      "path": "select/03_Essenza_e_anima_Ivana_Spagna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Anima Nera",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/04_Anima_Nera_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Black Anima",
+      "artist": "Lacuna Coil",
+      "has_synced": true,
+      "path": "select/05_Black_Anima_Lacuna_Coil.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Anima",
+      "artist": "Anna Oxa",
+      "has_synced": false,
+      "path": "select/06_Anima_Anna_Oxa.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Anima",
+      "artist": "Pino Daniele",
+      "has_synced": true,
+      "path": "select/07_Anima_Pino_Daniele.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Anima (Live)",
+      "artist": "Pino Daniele",
+      "has_synced": false,
+      "path": "select/08_Anima_(Live)_Pino_Daniele.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Anima (Remastered)",
+      "artist": "Pino Daniele",
+      "has_synced": true,
+      "path": "select/09_Anima_(Remastered)_Pino_Daniele.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Anima italiana",
+      "artist": "Umberto Tozzi & Marco Masini",
+      "has_synced": true,
+      "path": "select/10_Anima_italiana_Umberto_Tozzi_&_Marco_Masini.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Anima Mia",
+      "artist": "Cugini Di Campagna",
+      "has_synced": false,
+      "path": "select/11_Anima_Mia_Cugini_Di_Campagna.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Anima pagana",
+      "artist": "Giuni Russo",
+      "has_synced": true,
+      "path": "select/12_Anima_pagana_Giuni_Russo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Anima fragile",
+      "artist": "Vasco Rossi",
+      "has_synced": false,
+      "path": "select/13_Anima_fragile_Vasco_Rossi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Anima latina",
+      "artist": "Lucio Battisti",
+      "has_synced": true,
+      "path": "select/14_Anima_latina_Lucio_Battisti.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ANIMA",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_ANIMA_ReoNa.txt"
+    }
+  ]
+}
